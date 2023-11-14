@@ -1,0 +1,68 @@
+.detailshome{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+    left: 0px;
+    top: 0px;
+}
+.dadduser{
+    border-radius: 10px;
+    border-style: none;
+    height: 40px;
+    background-color: aquamarine;
+    position: absolute;
+    right: 700px;
+}
+.dview{
+    border-radius: 10px;
+    border-style: none;
+    height: 40px;
+    background-color: aquamarine;
+    position: absolute;
+    left: 1240px;
+}
+.dedit{
+    border-radius: 10px;
+    border-style: none;
+    height: 40px;
+    background-color: aquamarine;
+    position: absolute;
+    left: 1370px;
+}
+.ddelete{
+    border-radius: 10px;
+    border-style: none;
+    height: 40px;
+    background-color: aquamarine;
+    position: absolute;
+    left: 1300px;
+}
+.detailsadd{
+    width: 100%;
+    height: 950px;
+    z-index: -1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.dsubbtn{
+    border-radius: 10px;
+    border-style: none;
+    position: absolute;
+    left: 650px;
+}
+.dcanbtn{
+    border-radius: 10px;
+    border-style: none;
+    position: absolute;
+    left: 750px;
+}
+.detailsview{
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}

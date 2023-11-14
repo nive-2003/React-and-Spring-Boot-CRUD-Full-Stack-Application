@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+.app-logo{
+    width: 760px;
+    height: 650px;
+    position: absolute;
+    left: 370px;
+    align-items: center;
+    border-radius: 10px;
+    font-family: 'Lilita One', cursive;
+    font-weight: 100;
+}
+.submit{
+    position: relative;
+    left: 280px;
+    border-radius: 10px;
+    height: 40px;
+    background-color: rgba(240, 248, 255, 0.496);
+    border-style: none;
+}
+.cancel{
+    position: relative;
+    left: 350px;
+    border-radius: 10px;
+    height: 40px;
+    background-color: rgba(240, 248, 255, 0.496);
+    border-style: none;
+}
+.cancel:hover{
+    background-color: rgb(235, 237, 239);
+}
+.submit:hover{
+    background-color: rgb(235, 237, 239);
+}
+.llview{
+    
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        top: 0px;
+       z-index: -1;
+    
+}
+.bg-img{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -6;
+    left: 0px;
+    top: 0px;
+}
+.lcontainer{
+    font-family: 'Lilita One', cursive;
+    font-weight: 100;
+    font-size: 20px;
+}
